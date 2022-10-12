@@ -27,7 +27,7 @@
     "express": "^4.17.1",
     "express-session": "^1.17.1",
     "fast-two-sms": "^3.0.0",
-    "html2pdf.js": "^0.9.3",
+    "html2pdf.js": "^0.10.1",
     "locus": "^2.0.4",
     "lodash": "^4.17.21",
     "material-icons": "^0.5.3",
